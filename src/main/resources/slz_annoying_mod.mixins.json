@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.slz_br.slz_annoying_mod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AbstractSkeletonEntityMixin",
+    "CreeperEntityMixin",
+    "CreeperIgniteGoalMixin",
+    "IronGolemEntityMixin",
+    "PlayerEntityMixin",
+    "SpiderAttackGoalMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "slz_annoying_mod:block/mine_block",
+    "textures": {
+        "0": "slz_annoying_mod:block/mine_block"
+    }
+}

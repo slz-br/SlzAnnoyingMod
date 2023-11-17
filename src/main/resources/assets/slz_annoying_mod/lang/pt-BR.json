@@ -1,0 +1,9 @@
+{
+    "block.slz_annoying_mod.mine_block": "Mina",
+
+    "item.slz_annoying_mod.mine": "Mina",
+
+    "sounds.slz_annoying_mod.mine_planted": "Mina plantada",
+    "sounds.slz_annoying_mod.mine_becoming_invisible": "Mina tornando-se invisível",
+    "sounds.slz_annoying_mod.mine_activated": "Mina ativada"
+}

@@ -1,0 +1,20 @@
+{
+    "mine_planted": {
+        "subtitle": "sounds.slz_annoying_mod.mine_planted",
+        "sounds": [
+            "slz_annoying_mod:mine_planted"
+        ]
+    },
+    "mine_becoming_invisible": {
+        "subtitle": "sounds.slz_annoying_mod.mine_becoming_invisible",
+        "sounds": [
+            "slz_annoying_mod:mine_becoming_invisible"
+        ]
+    },
+    "mine_activated": {
+        "subtitle": "sounds.slz_annoying_mod.mine_activated",
+        "sound": [
+            "slz_annoying_mod:mine_activated"
+        ]
+    }
+}

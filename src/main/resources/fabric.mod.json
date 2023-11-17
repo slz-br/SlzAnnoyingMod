@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "slz_annoying_mod",
+  "version": "${version}",
+  "name": "SlzAnnoyingMod",
+  "description": "A mod made to be annoying",
+  "authors": [
+    "Slz"
+  ],
+  "contact": {
+    "repo": "https://github.com/slz-br/SlzAnnoyingModlzAnnoyingMod"
+  },
+  "license": "MPL-2.0",
+  "icon": "assets/slz_annoying_mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.slz_br.slz_annoying_mod.client.SlzAnnoyingModClient"
+    ],
+    "main": [
+      "io.github.slz_br.slz_annoying_mod.SlzAnnoyingMod"
+    ]
+  },
+  "mixins": [
+    "slz_annoying_mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
